@@ -30,8 +30,7 @@ You take on the role of a hero traversing a dangerous world full of enemies. Exp
    ```bash
    git clone [https://github.com/VeeturN/RPG-GAME-2D.git](https://github.com/VeeturN/RPG-GAME-2D.git)
 
-   Key,Action
-"W, A, S, D","Character movement (Up, Left, Down, Right)"
-Space / LMB,Basic Attack / Interact
-E / I,Open Inventory
-ESC,Pause / Return to Main Menu
+### Key,Action
+* "W, A, S, D","Character movement (Up, Left, Down, Right)"
+* Space / LMB,Basic Attack / Interact
+* ESC,Pause / Return to Main Menu
