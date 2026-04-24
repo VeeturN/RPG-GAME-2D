@@ -16,7 +16,6 @@ You take on the role of a hero traversing a dangerous world full of enemies. Exp
 ## 🛠️ Technologies
 * **Language:** C++ (C++17 Standard)
 * **Graphics Library:** SFML 
-* **Compiler:** MSVC / MinGW
 * **Tools:** Project configured for Visual Studio / CMake.
 
 ## 🚀 How to Run (Installation)
