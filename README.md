@@ -8,6 +8,10 @@ A 2D top-down RPG game written in C++. The main goal of the project was to pract
 ## 🎮 About the Game
 You take on the role of a hero traversing a dangerous world full of enemies. Explore the map, fight monsters, and manage your inventory to grow stronger and ultimately defeat the final boss.
 
+## 🎥 Gameplay Video
+Check out the game in action here: 
+**[Watch the gameplay video on YouTube](https://youtu.be/uYc9PZR-S74)**
+
 ## ✨ Key Features
 * **Movement and Exploration:** Smooth movement across a tile-based world. Built-in collision detection system.
 * **Combat System:** Melee and ranged combat mechanics for dealing damage to various enemy types controlled by simple AI.
@@ -28,8 +32,3 @@ You take on the role of a hero traversing a dangerous world full of enemies. Exp
 1. Clone the repository to your local drive:
    ```bash
    git clone [https://github.com/VeeturN/RPG-GAME-2D.git](https://github.com/VeeturN/RPG-GAME-2D.git)
-
-### Key,Action
-* "W, A, S, D","Character movement (Up, Left, Down, Right)"
-* Space / LMB,Basic Attack / Interact
-* ESC,Pause / Return to Main Menu
