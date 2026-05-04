@@ -8,9 +8,10 @@ A 2D top-down RPG game written in C++. The main goal of the project was to pract
 ## 🎮 About the Game
 You take on the role of a hero traversing a dangerous world full of enemies. Explore the map, fight monsters, and manage your inventory to grow stronger and ultimately defeat the final boss.
 
-## 🎥 Gameplay Video
-Check out the game in action here: 
-**[Watch the gameplay video on YouTube](https://youtu.be/uYc9PZR-S74)**
+## 📺 Project Showcase
+
+[![UE5 Shooter & Warrior Multiplayer Showcase](https://img.youtube.com/vi/uYc9PZR-S74/0.jpg)](https://www.youtube.com/watch?v=uYc9PZR-S74) <br>
+*Click the image above to watch the gameplay demonstration.*
 
 ## ✨ Key Features
 * **Movement and Exploration:** Smooth movement across a tile-based world. Built-in collision detection system.
